@@ -118,6 +118,17 @@ You can browse the Markdown files directly or open the repository as an Obsidian
 
 Contributors and automated agents should read [`AGENTS.md`](AGENTS.md) before changing content. In particular, changes must remain scoped to this public repository and must not import material from the separate private vault.
 
+## Related: Personal Context Management
+
+This repository complements my other public repo, [personal-context-management](https://github.com/kevinpinscoe/personal-context-management) (PCM).
+
+The two solve different problems:
+
+- **Personal Knowledge Management (PKM)** — this repo — is about managing *what I know*: durable notes, references, and the maps of content that connect them.
+- **Personal Context Management (PCM)** is about managing *what should already be known before helping me act*: the standing context, preferences, and conventions an assistant needs up front.
+
+PKM is the body of knowledge; PCM is the context that should be loaded before working with it.
+
 ## License
 
 See [`LICENSE`](LICENSE).
