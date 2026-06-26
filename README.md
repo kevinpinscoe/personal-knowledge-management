@@ -1,5 +1,11 @@
 # Personal Knowledge Management Workflow — Public Example
 
+In my model, the chief difference between PCM and PKM is purpose. PCM is an evolving research library: it gathers ideas, evidence, possibilities, and connections that may inform what I do next. PKM is more practical and operational: it records what I built, what I did, what I purchased, the decisions I made, and how I operate and maintain what I have.
+
+Put another way, PCM reads more like a cookbook of possibilities, while PKM reads more like the owner's manual for my actual life, tools, projects, and systems.
+
+PCM is prospective and exploratory. PKM is retrospective and operational.
+
 This repository is a curated, public example of how I organize an Obsidian-based personal knowledge management (PKM) system. It was derived from a separate working vault, but it is **not the working vault, a backup of it, or a complete publication of its contents**.
 
 The repository exists to demonstrate the structure and workflow with a small set of safe examples. Private notes, journals, attachments, active projects, and other personal material are intentionally excluded.
