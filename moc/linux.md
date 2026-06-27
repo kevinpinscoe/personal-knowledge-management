@@ -13,7 +13,7 @@ tags:
   - linux
   - operating-systems
 created: 2026-06-15
-updated: 2026-06-15
+updated: 2026-06-27
 ---
 
 # Linux MOC
@@ -22,6 +22,10 @@ updated: 2026-06-15
 
 Map of Content for Linux — the operating system, its internals, distributions, tooling, and administration. Covers the kernel, systemd, SELinux, containers, shell scripting, and related operational topics.
 
+## Child MOCs
+
+None yet.
+
 ## Notes
 
 - [[qa76-linux-systemd-timers|Linux systemd timers]]
@@ -29,4 +33,3 @@ Map of Content for Linux — the operating system, its internals, distributions,
 ## Related MOCs
 
 - [[compute-infrastructure|Compute Infrastructure]]
-- [[kevins-linux-universe|Kevin's Linux Universe]]
