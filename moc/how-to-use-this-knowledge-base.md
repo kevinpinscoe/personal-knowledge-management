@@ -17,7 +17,7 @@ tags:
   - navigation
   - information-resources
 created: 2026-06-15
-updated: 2026-06-19
+updated: 2026-06-27
 ---
 
 # How to use this Knowledge Base MOC
@@ -28,20 +28,22 @@ This MOC explains how to navigate, maintain, and extend this knowledge base. It 
 
 Use `home.md` as the front door, MOCs as navigation hubs, notes as durable knowledge, references as source-backed material, runbooks as procedures, and journal entries as dated working notes.
 
-## Core Navigation
+Working conventions: start from `home.md` for a major knowledge area; use top-level MOCs as broad entry points and lower-level MOCs for subtopics; link notes from every relevant MOC but keep each file in one location on disk; keep filesystem names lowercase and hyphenated; use frontmatter titles and aliases for human-readable display names.
 
-- [[home|Knowledge Home]]
+## Child MOCs
+
+None yet.
+
+## Notes
+
 - [[za-creating-a-new-note|Creating a new note]]
 - [[za-human-maintenance-of-this-knowledge-base|Human Maintenance of this Knowledge Base]]
 - [[za-wiring-up-obsidian-with-scripts|Wiring up Obsidian with scripts]]
 - [[za-why-use-lcc-classifications|Why use LCC Classifications?]]
 - [[rules-directory-layout|Directory Layout Rules]]
 - [[file-naming-rules|File Naming Rules]]
+- [[moc-section-order|MOC Section Order Rule]]
 
-## Working Rules
+## Related MOCs
 
-- Start from `home.md` when looking for a major knowledge area.
-- Use top-level MOCs for broad entry points.
-- Use lower-level MOCs for subtopics, tools, techniques, and study clusters.
-- Link notes from every relevant MOC, but keep each note in one sensible filesystem location.
-- Prefer frontmatter titles and aliases for readable names; keep filesystem names lowercase and hyphenated.
+- [[home|Knowledge Home]]
