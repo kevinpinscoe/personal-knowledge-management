@@ -1,6 +1,7 @@
 # Never commit resume.sh, resume.txt, editor/OS/Python artifacts, or local
 # Obsidian/agent state. Patterns use **/ so they match at every directory level.
 
+docs/
 **/resume.sh
 **/resume.txt
 **/.DS_Store
