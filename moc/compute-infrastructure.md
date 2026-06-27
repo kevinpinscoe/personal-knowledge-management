@@ -15,7 +15,7 @@ tags:
   - infrastructure
   - computing
 created: 2026-06-15
-updated: 2026-06-15
+updated: 2026-06-27
 ---
 
 # Compute Infrastructure MOC
@@ -31,6 +31,9 @@ Map of Content for servers, platforms, hosting, networks, databases, security, o
 - [[compute-networking|Compute Networking]]
 - [[compute-security|Compute Security]]
 - [[compute-cloud-hosting|Compute Cloud Hosting]]
+
+## Notes
+
 
 ## Related MOCs
 

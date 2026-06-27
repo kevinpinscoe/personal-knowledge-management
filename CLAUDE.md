@@ -29,7 +29,7 @@ A note carries its display title, aliases, `classification` (e.g. `QA76`), `clas
 - **MOC filenames** use plain topic slugs (`moc/linux.md`), with the classification code stored in frontmatter — not in the filename. Ordinary notes *may* carry a broad LCC-style prefix in the filename as a shelf marker (`qa76-...`) when useful.
 - Start new content from the matching skeleton in `templates/` (`note-template.md`, `moc-note-template.md`, `runbook-template.md`, `reference-note-template.md`, `daily-note-template.md`).
 - Journal entries are dated `journal/YYYY-MM-DD.md`.
-- **MOC section order** is enforced by `rules/moc-section-order.md`: every MOC file must use the order Overview → Child MOCs → Notes → Related MOCs. Child MOCs must precede Notes. If a change would place Notes above Child MOCs, stop and challenge it before editing.
+- **MOC section order** is enforced by `rules/moc-section-order.md`: every MOC file must use the order Overview → Child MOCs → Notes → Related MOCs. Child MOCs must precede Notes. Level-specific names (`## Second-level MOCs`, `## Third-level MOCs`) are acceptable alternatives to `## Child MOCs`. Empty `## Notes` sections are fine — a MOC with no notes yet is a valid placeholder. If a change would place Notes above Child MOCs, stop and challenge it before editing.
 - When a requested change conflicts with a file in `rules/`, prefer the rule and surface the conflict to the user rather than silently overriding it.
 
 ## Placement (which directory)

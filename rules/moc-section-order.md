@@ -26,14 +26,16 @@ MOCs are navigation hubs, not content pages. The first action a reader takes in 
 ## Applying this rule
 
 - When creating a new MOC, copy `templates/moc-note-template.md` — it already uses the correct order.
-- When editing an existing MOC, move `## Child MOCs` above `## Notes` if it is not already there.
-- **Do not omit `## Child MOCs`** unless the MOC is definitively a leaf node (a terminal topic with no plausible subtopics). Even an empty `## Child MOCs` section is preferable to omitting it for non-leaf MOCs.
+- When editing an existing MOC, move the child MOC section above `## Notes` if it is not already there.
+- **Do not omit the child MOC section** unless the MOC is definitively a leaf node. Even an empty section is preferable to omitting it for non-leaf MOCs.
 - If a MOC currently has no children, write the section with a placeholder:
   ```markdown
   ## Child MOCs
 
   None yet.
   ```
+- **Empty `## Notes` sections are acceptable.** A MOC with no notes yet is a valid placeholder in the hierarchy. Leave the section present so notes can be added later without restructuring.
+- **Level-specific child section names are acceptable** alternatives to the generic `## Child MOCs`. Use `## Second-level MOCs` or `## Third-level MOCs` when the depth is known and consistent with sibling MOCs in the same hierarchy. Generic `## Child MOCs` is preferred when depth may change or is unclear.
 
 ## Challenge clause
 
