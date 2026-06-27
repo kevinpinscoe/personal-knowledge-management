@@ -4,7 +4,7 @@
 
 This repository is a curated public example derived from a separate private Obsidian vault. It demonstrates the owner's PKM workflow; it is not the live vault, a backup, or a complete mirror.
 
-Keep changes limited to the files in this repository. Do not inspect, copy from, synchronize with, or otherwise depend on `~/KnowledgeVault/personal-knowledge-base` or any other external vault unless the user explicitly requests that work. Do not bulk-import private notes, journals, attachments, configuration, or history. Prefer a small, coherent set of sample MOCs and matching notes suitable for public consumption.
+Keep changes limited to the files in this repository. Do not inspect, copy from, synchronize with, or otherwise depend on `~/KnowledgeVault/PKM` or any other external vault unless the user explicitly requests that work. Do not bulk-import private notes, journals, attachments, configuration, or history. Prefer a small, coherent set of sample MOCs and matching notes suitable for public consumption.
 
 `README.md` is the public entry point for the repository. `home.md` is the internal Obsidian entry point for the published sample and should link only to MOCs intentionally included here.
 

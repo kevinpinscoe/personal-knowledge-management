@@ -116,8 +116,9 @@ Some directories are empty placeholders because this repository demonstrates the
 - Use frontmatter for display titles, aliases, classifications, tags, and status.
 - Use MOCs as curated entry points rather than exhaustive generated lists.
 - Treat `lcc/` as a lookup aid for broad classification decisions.
+- MOC files must use this section order: **Overview → Child MOCs → Notes → Related MOCs**. Child MOCs must always come before Notes so the drill-down path is visible before individual note listings.
 
-See [`rules/file-naming-rules.md`](rules/file-naming-rules.md), [`rules/rules-directory-layout.md`](rules/rules-directory-layout.md), and the files in [`templates/`](templates/) for the detailed working conventions represented by this example.
+See [`rules/file-naming-rules.md`](rules/file-naming-rules.md), [`rules/rules-directory-layout.md`](rules/rules-directory-layout.md), [`rules/moc-section-order.md`](rules/moc-section-order.md), and the files in [`templates/`](templates/) for the detailed working conventions represented by this example.
 
 ## Using this repository
 
