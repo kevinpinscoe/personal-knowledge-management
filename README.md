@@ -90,6 +90,7 @@ notes/qa76-linux-systemd-timers.md
 .
 ├── README.md       — public introduction to the example
 ├── AGENTS.md       — repository guidance for coding and AI agents
+├── TODO.md         — open housekeeping tasks for the vault owner
 ├── home.md         — Obsidian entry point for the published sample
 ├── .obsidian/      — sanitized Obsidian settings for testing the sample
 ├── moc/            — Maps of Content used for navigation
